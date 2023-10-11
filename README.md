@@ -1,0 +1,1 @@
+Brainiac is built using the Flutter framework, offering a seamless cross-platform experience. The app integrates user-friendly course enrollment, progress tracking, personalized suggestions, and a community forum for discussions.
